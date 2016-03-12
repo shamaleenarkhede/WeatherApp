@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Homework05</string>
+    <string name="action_settings">Settings</string>
+    <string name="defaultmsg">There are no cities to display.Add using the "+" button from the menu</string>
+    <string name="plus">plus</string>
+    <string name="title_activity_addcity">Add City Activity</string>
+    <string name="title_activity_detailsactivity">Details Activity</string>
+    <string name="save">Save City</string>
+    <string name="cityHintText">City Name(Eg. Charlotte)</string>
+    <string name="stateHintText">State Initial(Eg. NC)</string>
+    <string name="title_activity_hourlyDataActivity">HourlyData Activity</string>
+    <string name="time"></string>
+    <string name="condition"></string>
+    <string name="temp"></string>
+    <string name="tvcurrentlocation">Current Location</string>
+    <string name="tvcurrentlocationdisplay">Value</string>
+    <string name="tvmintemp">Min Temperature</string>
+    <string name="tvmintempdisplay">Value</string>
+    <string name="tvmaxtemp">Max Temperature</string>
+    <string name="tvmaxtempdisplay">Value</string>
+    <string name="tvfeelslike">FeelsLike :</string>
+    <string name="tvfeelslikedisplay">Value</string>
+    <string name="tvhumidity">Humidity :</string>
+    <string name="tvhumiditydisplay">Value</string>
+    <string name="tvdewpoint">Dewpoint :</string>
+    <string name="tvdewpointdisplay">Value</string>
+    <string name="tvpressure">Pressure :</string>
+    <string name="tvpressuredisplay">Value</string>
+    <string name="tvclouds">Clouds :</string>
+    <string name="tvcloudsdisplay">Value</string>
+    <string name="tvwinds">Winds :</string>
+    <string name="tvwindsdisplay">Value</string>
+    <string name="tvtemp">0.0F</string>
+    <string name="tvcondition">Condition</string>
+    <string name="tvstate">State</string>
+    <string name="tvtempdis">Temp</string>
+    <string name="tvidcondition">condition</string>
+    <string name="tvtime">Time</string>
+
+</resources>
